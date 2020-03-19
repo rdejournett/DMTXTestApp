@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTXTestApp", "DMTXTestApp.csproj", "{1219F03A-431E-4663-9AD8-3F7F7FD4D75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1219F03A-431E-4663-9AD8-3F7F7FD4D75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1219F03A-431E-4663-9AD8-3F7F7FD4D75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1219F03A-431E-4663-9AD8-3F7F7FD4D75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1219F03A-431E-4663-9AD8-3F7F7FD4D75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D32C8F23-2F46-4222-9C5C-7BF8A4E03C45}
+	EndGlobalSection
+EndGlobal
