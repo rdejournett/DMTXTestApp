@@ -32,8 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Libdmtx.Net">
-      <HintPath>..\..\..\..\..\adcl\QRCode\lib_dmtx\net\Libdmtx.Net\bin\Debug\Libdmtx.Net.dll</HintPath>
+    <Reference Include="Libdmtx.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Libdmtx.Net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
